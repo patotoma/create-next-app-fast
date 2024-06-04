@@ -1,0 +1,22 @@
+{
+  "name": "create-next-app-fast",
+  "version": "0.0.1",
+  "main": "index.js",
+  "bin": {
+    "my-npx-package": "./run.sh"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patotoma/create-next-app-fast.git"
+  },
+  "keywords": [],
+  "author": "Patrik Toma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patotoma/create-next-app-fast/issues"
+  },
+  "homepage": "https://github.com/patotoma/create-next-app-fast#readme"
+}
